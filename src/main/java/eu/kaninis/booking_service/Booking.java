@@ -33,7 +33,7 @@ public class Booking {
     @NotNull
     private BookingStatus status = BookingStatus.PENDING;
 
-    // Konstruktörer
+    // Constructors
     public Booking() {
     }
 
