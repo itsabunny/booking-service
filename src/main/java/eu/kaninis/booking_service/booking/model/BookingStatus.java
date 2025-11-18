@@ -1,4 +1,4 @@
-package eu.kaninis.booking_service;
+package eu.kaninis.booking_service.booking.model;
 
 public enum BookingStatus {
     PENDING,

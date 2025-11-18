@@ -1,4 +1,4 @@
-package eu.kaninis.booking_service;
+package eu.kaninis.booking_service.booking.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;

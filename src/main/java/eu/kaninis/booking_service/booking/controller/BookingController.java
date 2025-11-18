@@ -1,5 +1,7 @@
-package eu.kaninis.booking_service;
+package eu.kaninis.booking_service.booking.controller;
 
+import eu.kaninis.booking_service.booking.model.Booking;
+import eu.kaninis.booking_service.booking.repository.BookingRepository;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
